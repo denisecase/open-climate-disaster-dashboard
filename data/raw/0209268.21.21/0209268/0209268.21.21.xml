@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accession manifest_version="2">
+  <head>
+    <id>0209268</id>
+    <version>21.21</version>
+    <timestamp>2025-01-21 19:57:41+00</timestamp>
+    <host>engine-1.ams.ncei.noaa.gov</host>
+    <directory>/nodc/archive/arc0153/0209268/21.21</directory>
+    <file_count>13</file_count>
+    <byte_count>858526</byte_count>
+  </head>
+  <body>
+    <files>
+      <file>
+        <path>NCEI-Readme.txt</path>
+        <digest algorithm="md5">e91932714ba31f21222c897c53a16b96</digest>
+        <digest algorithm="sha1">82edb6b02edde6773d1dbf60f0daa14dd0a2399a</digest>
+        <digest algorithm="sha256">8a28ff0cfd348380edf08df45dffd3af0f7b21e36693b33c2caacf099fc00e47</digest>
+        <digest algorithm="sha384">5f34016a6e2d1509b8a30b4831c1a216df54bb1e865cea0fb6a1ce6f94ac19c39f8abea4ce4fd1d2fc9dbbcc808a7158</digest>
+        <digest algorithm="sha512">3ef7e6ffc7c31d8f016ae4c3654e4476ffebdeef8984c1cca0da3cd3b8410e5b19b0d985d06ecd58609ddce2f39a6add62c08580e018351ab2827c4b06da39c2</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>21</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1847</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2018-06-07 19:47:08+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>50596789</inode>
+      </file>
+      <file>
+        <path>about</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2025-01-14 19:09:09+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51216387</inode>
+      </file>
+      <file>
+        <path>about/0-email.txt</path>
+        <digest algorithm="md5">c5181a417dffe98839ce11921e959737</digest>
+        <digest algorithm="sha1">5329010e7fbdebd2126e957f45e2aa7c1f6bb688</digest>
+        <digest algorithm="sha256">18e41b6e7aa854dd1ddd828373e7e29118b75b92360365d56cf5201fedcc1a81</digest>
+        <digest algorithm="sha384">39c43cf76f59caf28fd5ff65a645ccf4e6b3d2e0fe587e801f90268fbe5b962681579885c8b502efc837f6a5d61d1b23</digest>
+        <digest algorithm="sha512">825e9624720a504a86bb48be448955f70becb28c9d52ce8d0c6fecc288cb844173aacfbbb257fb596aa82286f6870d70f563c0e146a14e4a23cebc65572a598f</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>21</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>705</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-03-16 16:20:52+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>50596790</inode>
+      </file>
+      <file>
+        <path>about/0209268_lonlat.txt</path>
+        <digest algorithm="md5">de4b0f9261744f9c16e1ed1974182e71</digest>
+        <digest algorithm="sha1">3fb6200737dd533550102e573b210722348e90e1</digest>
+        <digest algorithm="sha256">de35f90a1a21d0443187db6e42dda96587ab75ba8c17d9735977cabb4b460412</digest>
+        <digest algorithm="sha384">446a85ca2ea89669ae9b3d1b323ccd7202834cf853028d36af8a952d8bb7fc9309c7f0d3a308e1a126d203f89dd1b223</digest>
+        <digest algorithm="sha512">df4e39140ed32292590fa2dc88ba77916168b693a878994af83ca67280372c8c95acf3f0b02fcfbca64771d85611a8f80813e36cf5df3d7e4bc8d7c807b80e85</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>21</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>71</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-03-13 20:17:57+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>50596791</inode>
+      </file>
+      <file>
+        <path>about/0209268_map.jpg</path>
+        <digest algorithm="md5">600bb1419039f11477ce2dc22b487ca2</digest>
+        <digest algorithm="sha1">1b0376e3ac6a87cdd2372de0273cb5253a8bd036</digest>
+        <digest algorithm="sha256">9d93e135413c6fb12cb535d579daa07c1619e3ba3b7c41839aa06bcb9515a470</digest>
+        <digest algorithm="sha384">8f7b3366ed6682379db3c7ac985a5c7996a370c7f377a5c0ad1eb517fe79292f9a13a24cdf4c71b5024184bcae805e59</digest>
+        <digest algorithm="sha512">4508d7ab91043fe2c1329551f8f9cb496fa826da4ff66bd32220f5d3901bbbb93903d661b37702383702073b7245074af1269542a39ac5867f6dcfb1f94a3592</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>21</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>281482</size>
+        <blksize>32768</blksize>
+        <blocks>552</blocks>
+        <modtime>2020-03-16 13:07:58+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>50596792</inode>
+      </file>
+      <file>
+        <path>about/0209268_preview.png</path>
+        <digest algorithm="md5">1ffd40b5547651938f2beb0855bf747b</digest>
+        <digest algorithm="sha1">4e7f5d0317af690a1d961f92f71e97d4b112dc9b</digest>
+        <digest algorithm="sha256">29b5a2e2548de2107f5cd3e5d086a014fe0695a7b4a9b6a9e5bbede21fc70704</digest>
+        <digest algorithm="sha384">ae82e4c8263c941eeca24fef627f40ae592a8d60177ad89299c3833e2ce65ffbb920bdd94fb64c17efaf8baef551eba5</digest>
+        <digest algorithm="sha512">a89c36a1c08f96f7ff971753e553a792baeae4ad68b125908f909a5f232028a80bc497ddd7bf2354f668dba9495e3a11f50cc26d05d396192e6a95382cb0a49d</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>218813</size>
+        <blksize>32768</blksize>
+        <blocks>432</blocks>
+        <modtime>2025-01-14 19:01:12+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51121046</inode>
+      </file>
+      <file>
+        <path>about/1-email.txt</path>
+        <digest algorithm="md5">9f1c07dc550d9c51d5a7ec22198212ba</digest>
+        <digest algorithm="sha1">d086c0cdbf65f78d308e2582683b4b47b0db646c</digest>
+        <digest algorithm="sha256">97cbd4372de67174a19330707900c0ba8ca2c84839c2863dbfdd46650de883a6</digest>
+        <digest algorithm="sha384">d4c9eb65d844c4a0afb26e7de1bed9b1bef55e6daa4008cb4baf1c1db8daa6d54a35bc9e38a4b946107c4c361de0792b</digest>
+        <digest algorithm="sha512">97d09de191b3f03f2975ddd93b3efc0322275469606df7edb5b9e03ee8e5925eacd33306ac06d7593207cfab5a85678598d5760bbf37dc6bc0d48d2fda0c3f9e</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>12654</size>
+        <blksize>32768</blksize>
+        <blocks>32</blocks>
+        <modtime>2025-01-14 19:03:44+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51121047</inode>
+      </file>
+      <file>
+        <path>about/56491_R2A.pdf</path>
+        <digest algorithm="md5">c53250c97627967f39ae62aba3232c58</digest>
+        <digest algorithm="sha1">1d27eb76cf4d15ff26827cd0e8f94bac9aebf3fb</digest>
+        <digest algorithm="sha256">2f194cd7337d2a39c66ae728d79d755361b590a674fdec6dcaedbc6eb0dbd853</digest>
+        <digest algorithm="sha384">4a752bab242f3f240279fbc47355e2be62287ad20f27ec4a65510322a3eeebee26757f8fd806650e2b4dbcd001e30ab7</digest>
+        <digest algorithm="sha512">e6aa3c21e24d31654ac49cb65a7846a62fa533330d9860729124c35939c3d13612673413c0321bfdec0d9215b4574a8cc9fa7ff3746935689039ecdfef90bd08</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>21</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>7116</size>
+        <blksize>32768</blksize>
+        <blocks>16</blocks>
+        <modtime>2020-03-11 19:18:52+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>50596794</inode>
+      </file>
+      <file>
+        <path>about/journal.txt</path>
+        <digest algorithm="md5">02c9753c67af9c8a45ec907c871adba4</digest>
+        <digest algorithm="sha1">b0ab473a810a8d93d51c6260f90a88352182002a</digest>
+        <digest algorithm="sha256">e1fa956c4216fbb202ee69684be5a870c53e86d87dffb517f5612face9381c53</digest>
+        <digest algorithm="sha384">c9b79ad6e89f45ea6fe414e1cba68752c8836df570c8c85ca9c6329875bb5421331f2c24e14ef3ebb786264b546c6a9d</digest>
+        <digest algorithm="sha512">6190674bfaed6caea336e8b10f66a11bcfe32f421d38f24b62e49fce8b980273603c3cb3e531f57707eb41bbcf2b998fc4c6bcfd002711b2a08b64f9c526babe</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>68564</size>
+        <blksize>32768</blksize>
+        <blocks>136</blocks>
+        <modtime>2025-01-14 19:08:45+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51121048</inode>
+      </file>
+      <file>
+        <path>data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>3</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-03-11 13:21:40+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51216388</inode>
+      </file>
+      <file>
+        <path>data/0-data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2025-01-14 18:58:40+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51216389</inode>
+      </file>
+      <file>
+        <path>data/0-data/1980-2024-billion-dollar-disaster-time-series.png</path>
+        <digest algorithm="md5">1ffd40b5547651938f2beb0855bf747b</digest>
+        <digest algorithm="sha1">4e7f5d0317af690a1d961f92f71e97d4b112dc9b</digest>
+        <digest algorithm="sha256">29b5a2e2548de2107f5cd3e5d086a014fe0695a7b4a9b6a9e5bbede21fc70704</digest>
+        <digest algorithm="sha384">ae82e4c8263c941eeca24fef627f40ae592a8d60177ad89299c3833e2ce65ffbb920bdd94fb64c17efaf8baef551eba5</digest>
+        <digest algorithm="sha512">a89c36a1c08f96f7ff971753e553a792baeae4ad68b125908f909a5f232028a80bc497ddd7bf2354f668dba9495e3a11f50cc26d05d396192e6a95382cb0a49d</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-r--r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>218813</size>
+        <blksize>32768</blksize>
+        <blocks>432</blocks>
+        <modtime>2025-01-10 14:57:54+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51121049</inode>
+      </file>
+      <file>
+        <path>data/0-data/events-US-1980-2024-Q4.csv</path>
+        <digest algorithm="md5">d73be07a048128f5ea79e5c1d673e36a</digest>
+        <digest algorithm="sha1">533fc36a5dc1e9e4a9437de034dc899fb3813008</digest>
+        <digest algorithm="sha256">edead6d7f2be85186b67150e2eddca2e836246d0587186d6619481f2e4b175f8</digest>
+        <digest algorithm="sha384">49b0277e5e201a7c5dd90db2cb8112999a0714394c0f46860f9ef7214335c95bd4ef9ba51b75222661efab99f17581d7</digest>
+        <digest algorithm="sha512">5020210797a91b7adea7931f01dbf6202f6a70382d75415bf723c29eccc15318e330c68cd73507c15eaf1eeae693b7bbedd10b15a13392db7e0e0ccdcbc1f6f8</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>36173</size>
+        <blksize>32768</blksize>
+        <blocks>72</blocks>
+        <modtime>2025-01-10 14:58:00+00</modtime>
+        <changetime>2025-01-21 19:56:44+00</changetime>
+        <acctime>2025-01-21 19:56:44+00</acctime>
+        <sumtime>2025-01-21 19:57:41+00</sumtime>
+        <inode>51121050</inode>
+      </file>
+    </files>
+  </body>
+</accession>

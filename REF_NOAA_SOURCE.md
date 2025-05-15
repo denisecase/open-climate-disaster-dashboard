@@ -12,20 +12,6 @@ Each of these data sources provides unique information as part of the overall di
 
 Source: <https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268>
 
-
-About: 
-
-Weather and Climate Billion-Dollar Disasters to affect the U.S. from 1980-2024,,,,,,
-
-Cost values are in millions of dollars,,,,,,
-
-Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
-
-Southern Severe Storms and Flooding (April 1980),Flooding,19800410,19800417,2749.4,706.8,7
-
-Hurricane Allen (August 1980),Tropical Cyclone,19800807,19800811,2236.2,590,13
-
-
 Preview:
 
 ![Preview](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/gfx?id=gov.noaa.nodc:0209268)

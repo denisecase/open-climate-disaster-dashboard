@@ -1,4 +1,18 @@
-# REFERENCE FOR ANALYSTS & DEVELOPERS
+# Set Up Guide for Getting Started
+
+This guide covers
+
+- Use of Windows Subsystem for Linux (WSL) on Windows machines
+- Tool installation (Python 3.10, GDAL)
+- GDAL Configuration and Environment Variables
+- GDAL Installation Verification
+- Cloning and Opening the Project in VS Code
+- Managing the Virtual Environment
+- Help with Jupyter Notebooks and Kernel Selection
+- Running Scripts (optional)
+- General Notes
+
+---
 
 ## 1. On Windows Machines Use WSL
 
@@ -8,7 +22,7 @@ Use Windows Subsystem for Linux. Launch WSL.
 wsl
 ```
 
-## 2. Install Tools
+## 2. Tool Installation (Python 3.10, GDAL)
 
 1. Remove any old versions of gdal.
 2. Update package lists
@@ -36,7 +50,7 @@ export C_INCLUDE_PATH=/usr/include/gdal
 export PATH=$PATH:/usr/bin/gdal
 ```
 
-## 3. Persist Environment Variables
+## 3. Persist GDAL Environment Variables
 
 Persist the environment variables:
 
@@ -47,7 +61,7 @@ echo 'export PATH=$PATH:/usr/bin/gdal' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-## 4. Verify Tool Intallation
+## 4. Verify GDAL Intallation
 
 Persist the environment variables:
 

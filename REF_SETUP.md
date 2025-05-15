@@ -1,4 +1,4 @@
-# Set Up Guide for Getting Started
+# Guide for Setting Up the Project
 
 This guide covers
 
